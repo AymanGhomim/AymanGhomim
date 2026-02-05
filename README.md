@@ -82,6 +82,6 @@
 
 <p align="left">
   <a href="https://github.com/AymanGhomim"><img src="https://img.shields.io/badge/GitHub-AymanGhomim-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/aymmanghonim2004/"><img src="https://img.shields.io/badge/LinkedIn-AymanGhomim-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/aymanghonim2004/"><img src="https://img.shields.io/badge/LinkedIn-AymanGhomim-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="aymanmando367@gmail.com"><img src="https://img.shields.io/badge/Email-✉️-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
