@@ -1,5 +1,12 @@
-<h1 align="center">Hey 👋 I'm Ayman Ghonim</h1>
-<p align="center">Mid-Level Front-End Developer | ReactJS | Next.js | Node.js | Passionate about building scalable & modern web applications</p>
+<h1 align="center">
+  <a href="https://github.com/AymanGhomim">Hey 👋 I'm <span style="color:#61DAFB;">Ayman Ghonim</span></a>
+</h1>
+
+<p align="center">
+  <i>
+  <a href="https://github.com/AymanGhomim">Mid-Level Front-End Developer</a> | ReactJS | Next.js | Node.js
+  </i>
+</p>
 
 ---
 
@@ -11,42 +18,68 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack with Hover Effects
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://reactjs.org/" title="React">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://nextjs.org/" title="Next.js">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
 </p>
 
 ---
 
-## 📌 Selected Projects
-- **💻 React E-Commerce App** – Modern UI with reusable components & API integration  
-- **📊 Admin Dashboard** – Data-driven dashboard built with React & responsive design  
-- **🎨 Personal Portfolio** – Showcasing my projects & skills  
+## 🎯 Skills Progress Bars
 
-> Check my GitHub profile for more projects: [AymanGhomim](https://github.com/AymanGhomim)
+| Skill | Level |
+|-------|-------|
+| HTML5 | <img src="https://img.shields.io/badge/HTML5-90%25-brightgreen" /> |
+| CSS3 | <img src="https://img.shields.io/badge/CSS3-85%25-blue" /> |
+| JavaScript | <img src="https://img.shields.io/badge/JavaScript-90%25-yellow" /> |
+| TypeScript | <img src="https://img.shields.io/badge/TypeScript-80%25-blue" /> |
+| React | <img src="https://img.shields.io/badge/React-90%25-61DAFB" /> |
+| Next.js | <img src="https://img.shields.io/badge/Next.js-85%25-black" /> |
+| Node.js | <img src="https://img.shields.io/badge/Node.js-75%25-green" /> |
+
+---
+
+## 💻 Portfolio Projects
+
+| Project | Description | Demo | Repo |
+|---------|-------------|------|------|
+| React E-Commerce | Modern UI with reusable components & API integration | [Demo](#) | [Repo](#) |
+| Admin Dashboard | Data-driven dashboard, responsive layout | [Demo](#) | [Repo](#) |
+| Personal Portfolio | Portfolio showcasing React projects & skills | [Demo](#) | [Repo](#) |
+| Blog Platform | Next.js blog with Markdown & SSR | [Demo](#) | [Repo](#) |
+
+---
+
+## 📄 CV / Resume
+
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobat)](https://example.com/your-cv.pdf)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanGhomim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AymanGhomim&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanGhomim&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=AymanGhomim&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
+
 <p align="left">
   <a href="https://github.com/AymanGhomim"><img src="https://img.shields.io/badge/GitHub-AymanGhomim-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-AymanGhomim-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
