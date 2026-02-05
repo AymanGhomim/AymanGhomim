@@ -1,22 +1,21 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<p align="left">My name is Ayman Ghonim and I'm a Mid-Level Frontend Developer specializing in ReactJS, from Egypt 🇪🇬. I build scalable, responsive, and maintainable web applications.</p>
 
-<p align="left">My name is Ayman Ghonim and I'm a Frontend Devoloper With ReactJS, from ....</p>
-
-###
+---
 
 <h2 align="left">About me</h2>
 
-###
+<p align="left">
+✨ Creating user-friendly interfaces and clean code<br>
+📚 Currently mastering React.js ecosystem, Next.js, and testing with Jest<br>
+🎯 Goals: Become a full-stack React developer and contribute to open-source projects<br>
+🎲 Fun fact: Coffee fuels my coding sessions ☕
+</p>
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
+---
 
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -36,4 +35,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-###
+---
+
+<h2 align="left">Selected Projects</h2>
+
+- **React E-Commerce App** – Modern UI with reusable components and API integration  
+- **Admin Dashboard** – Data-driven dashboard built with React & responsive design  
+- **Personal Portfolio** – Showcasing my projects and skills  
+
+---
+
+<h2 align="left">GitHub Stats</h2>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=AymanGhomim&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanGhomim&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="left">Contact</h2>
+
+- GitHub: [AymanGhomim](https://github.com/AymanGhomim)  
+- LinkedIn: *(Add LinkedIn link here)*
