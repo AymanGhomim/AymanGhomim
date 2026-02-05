@@ -1,56 +1,39 @@
-# Ayman Ghonim
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Mid-Level Front-End React Developer with experience in building scalable, maintainable, and responsive web applications.
+###
 
----
+<p align="left">My name is Ayman Ghonim and I'm a Frontend Devoloper With ReactJS, from ....</p>
 
-## Professional Summary
-Front-End React Developer focused on delivering clean, efficient, and user-centered interfaces. Experienced in building reusable components, integrating APIs, and maintaining performance and code quality across medium to large-scale applications.
+###
 
----
+<h2 align="left">About me</h2>
 
-## Technical Skills
-**Front-End**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- React Hooks, Context API
-- React Router
-- Responsive Design (Flexbox, CSS Grid)
-- REST API Integration (Fetch, Async/Await)
+###
 
-**Tools & Workflow**
-- Git & GitHub
-- npm
-- VS Code
-- Chrome DevTools
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
----
+###
 
-## Selected Projects
-**React E-Commerce Application**  
-Scalable React application with modular components and API-driven data  
-🔗 Repository: Available on profile
+<h2 align="left">I code with</h2>
 
-**Admin Dashboard**  
-Data-focused dashboard with responsive layout and reusable UI components  
-🔗 Repository: Available on profile
+###
 
-**Personal Portfolio**  
-Professional portfolio showcasing selected React projects  
-🔗 Repository: Available on profile
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
----
-
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AymanGhomim&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanGhomim&layout=compact)
-
----
-
-## Contact
-- GitHub: https://github.com/AymanGhomim  
-- LinkedIn: *(Add LinkedIn profile)*
-
----
-
-This profile highlights selected projects and ongoing work in React front-end development.
+###
