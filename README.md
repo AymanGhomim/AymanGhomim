@@ -55,7 +55,7 @@
 
 | Project | Description | Demo | Repo |
 |---------|-------------|------|------|
-| React Movie App | Modern UI with reusable components & API integration | [Demo](#https://aymanghomim.github.io/Movie-App/) | [Repo](#https://github.com/AymanGhomim/Movie-App) |
+| React Movie App | Modern UI with reusable components & API integration | [Demo](https://aymanghomim.github.io/Movie-App/) | [Repo](https://github.com/AymanGhomim/Movie-App) |
 | Admin Dashboard | Data-driven dashboard, responsive layout | [Demo](#) | [Repo](#) |
 | Personal Portfolio | Portfolio showcasing React projects & skills | [Demo](#) | [Repo](#) |
 | Blog Platform | Next.js blog with Markdown & SSR | [Demo](#) | [Repo](#) |
