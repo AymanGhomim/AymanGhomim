@@ -1,87 +1,70 @@
-<h1 align="center">
-  <a href="https://github.com/AymanGhomim">Hey 👋 I'm <span style="color:#61DAFB;">Ayman Ghonim</span></a>
-</h1>
+<div align="center">
+
+# Ayman Ghonim
+
+### Frontend Developer · UI/UX Designer
+
+**Thoughtful interfaces. Reusable components. Better web experiences.**
+
+I design and build responsive web experiences with React, Next.js, and TypeScript — connecting clear visual design with practical frontend development.
+
+[Portfolio](https://my-portoflio-neon.vercel.app/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/ayman-ghonim-944796238/) &nbsp; / &nbsp; [Email](mailto:aymanmando367@gmail.com)
+
+<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+
+</div>
+
+---
+
+## Design meets development
+
+I'm a frontend developer and UI/UX designer based in **Cairo, Egypt**. My work spans personal portfolios, business websites, e-learning experiences, and administrative dashboards.
+
+- **Interface development:** responsive layouts, reusable React components, and clear interaction states.
+- **Product interfaces:** API-connected dashboards, forms, search, filtering, and data management.
+- **Design details:** visual hierarchy, purposeful motion, and Arabic / English experiences with RTL support.
+- **Current direction:** deepening my Next.js knowledge and growing toward full-stack development.
+
+## Selected projects
+
+| Project | What it explores | Technologies | Explore |
+| :--- | :--- | :--- | :--- |
+| **Ayman Ghonim · Portfolio** | Personal portfolio with interactive project previews, motion, and responsive layouts. | React · TypeScript · Tailwind CSS · Framer Motion | [Source](https://github.com/AymanGhomim/Ayman-Ghonim) |
+| **CALL99 · Backoffice Dashboard** | Automotive services administration, API-connected management screens, and Arabic / English localization. | React · TypeScript · TanStack Query | [Source](https://github.com/AymanGhomim/CALL99) |
+| **Souvenir · Language Academy** | An academy portfolio presenting its identity, story, and community. | Next.js · TypeScript | [Source](https://github.com/AymanGhomim/Souviner-Portoflio) |
+| **Movie App · ITI Graduation Project** | A responsive movies and series web app built as a graduation project. | React · JavaScript | [Source](https://github.com/AymanGhomim/Movie-App) |
 
 <p align="center">
-  <i>
-  <a href="https://github.com/AymanGhomim">Mid-Level Front-End Developer</a> | ReactJS | Next.js | Node.js
-  </i>
+  <a href="https://my-portoflio-neon.vercel.app/"><strong>View my portfolio →</strong></a>
 </p>
 
----
+## Tools & technologies
 
-## 🌟 About Me
-- ⚛️ React Front-End Developer focused on clean code & reusable components  
-- 📚 Currently mastering Next.js, Redux, Testing with Jest, and advanced React patterns  
-- 🎯 Goals: Become Full-Stack React Developer and contribute to open-source  
-- 🎲 Fun fact: Coffee fuels my coding sessions ☕  
+| Area | Stack |
+| :--- | :--- |
+| **Core** | JavaScript · TypeScript · HTML5 · CSS3 |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Data & integration** | REST APIs · Axios · TanStack Query |
+| **UI & motion** | Responsive design · RTL / LTR interfaces · Framer Motion |
+| **Workflow** | Git · GitHub · Vite |
 
----
+## My approach
 
-## 🛠️ Tech Stack with Hover Effects
+**Understand → Design → Build → Refine**
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://reactjs.org/" title="React">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://nextjs.org/" title="Next.js">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-</p>
+Start with the user flow, shape a clear interface, build reusable components, and refine the responsive behavior and interaction details.
 
 ---
 
-## 🎯 Skills Progress Bars
+<div align="center">
 
-| Skill | Level |
-|-------|-------|
-| HTML5 | <img src="https://img.shields.io/badge/HTML5-90%25-brightgreen" /> |
-| CSS3 | <img src="https://img.shields.io/badge/CSS3-85%25-blue" /> |
-| JavaScript | <img src="https://img.shields.io/badge/JavaScript-90%25-yellow" /> |
-| TypeScript | <img src="https://img.shields.io/badge/TypeScript-80%25-blue" /> |
-| React | <img src="https://img.shields.io/badge/React-90%25-61DAFB" /> |
-| Next.js | <img src="https://img.shields.io/badge/Next.js-85%25-black" /> |
-| Node.js | <img src="https://img.shields.io/badge/Node.js-75%25-green" /> |
+### Let's connect
 
----
+For project conversations and collaboration, reach me through [LinkedIn](https://www.linkedin.com/in/ayman-ghonim-944796238/) or [email](mailto:aymanmando367@gmail.com).
 
-## 💻 Portfolio Projects
+**[Explore my work](https://my-portoflio-neon.vercel.app/)**
 
-| Project | Description | Demo | Repo |
-|---------|-------------|------|------|
-| React Movie App | Modern UI with reusable components & API integration | [Demo](https://aymanghomim.github.io/Movie-App/) | [Repo](https://github.com/AymanGhomim/Movie-App) |
-| Admin Dashboard | Data-driven dashboard, responsive layout | [Demo](#) | [Repo](#) |
-| Personal Portfolio | Portfolio showcasing React projects & skills | [Demo](#) | [Repo](#) |
-| Blog Platform | Next.js blog with Markdown & SSR | [Demo](#) | [Repo](#) |
-
----
-
-## 📄 CV / Resume
-
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobat)](https://example.com/your-cv.pdf)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanGhomim&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanGhomim&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=AymanGhomim&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/AymanGhomim"><img src="https://img.shields.io/badge/GitHub-AymanGhomim-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/aymanghonim2004/"><img src="https://img.shields.io/badge/LinkedIn-AymanGhomim-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="aymanmando367@gmail.com"><img src="https://img.shields.io/badge/Email-✉️-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
-</p>
+</div>
